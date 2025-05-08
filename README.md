@@ -42,7 +42,7 @@ Key components of the analysis include:
 
 ---
 
-## ✅ Key Findings (Insert Your Results)
+## ✅ Key Findings (FINISH THIS)
 
 - The strongest predictor of wins was ________, with an R² value of ____.
 - The p-value for offensive yards per game was ____, indicating (significance/no significance).
